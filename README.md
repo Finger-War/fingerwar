@@ -30,6 +30,9 @@
       </ul>
     </li>
     <li>
+      <a href="#contributing">Contributing</a>
+    </li>
+    <li>
       <a href="#license">License</a>
     </li>
   </ol>
@@ -52,5 +55,8 @@ The idea of ​​the project is to be a gamified platform in which you have typ
 * [Terraform]()
 * [Google Cloud Platform]()
 
+## Contributing
+Before contributing, please read the <a href="https://github.com/Finger-War/fingerwar/blob/main/CODE_OF_CONDUCT.md">Code Of Conduct</a>.
+
 ## License
-Project license <a href="https://github.com/Finger-War/fingerwar/blob/main/LICENSE">here</a>.
+Read the <a href="https://github.com/Finger-War/fingerwar/blob/main/LICENSE">License</a>.
