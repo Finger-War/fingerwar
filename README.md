@@ -20,7 +20,6 @@
 
 <details open="open">
   <summary>Table of Contents</summary>
-  
   <ol>
     <li>
       <a href="#about">About</a>
@@ -29,6 +28,9 @@
           <a href="#built-with">Built With</a>
         </li>
       </ul>
+    </li>
+    <li>
+      <a href="#license">License</a>
     </li>
   </ol>
 </details>
@@ -49,3 +51,6 @@ The idea of ​​the project is to be a gamified platform in which you have typ
 * [Kubernetes]()
 * [Terraform]()
 * [Google Cloud Platform]()
+
+## License
+Project license <a href="https://github.com/Finger-War/fingerwar/blob/main/LICENSE">here</a>.
