@@ -27,6 +27,9 @@
         <li>
           <a href="#built-with">Built With</a>
         </li>
+        <li>
+          <a href="#installation">Installation</a>
+        </li>
       </ul>
     </li>
     <li>
@@ -50,10 +53,43 @@ The idea of ​​the project is to be a gamified platform in which you have typ
 * [React.js]()
 * [Next.js]()
 * [Tailwind CSS]()
+* [Elixir]()
+* [Phoenix]()
 * [Docker]()
 * [Kubernetes]()
 * [Terraform]()
-* [Google Cloud Platform]()
+
+## Installation
+
+1. Clone the frontend repository
+```sh
+git clone https://github.com/Finger-War/frontend.git
+```
+
+2. Clone the backend repository
+```sh
+git clone https://github.com/Finger-War/backend.git
+```
+
+3. Install the frontend dependencies
+```sh
+npm install
+```
+
+4. Install the backend dependencies
+```sh
+mix install
+```
+
+1. Run the frontend
+```sh
+npm run dev
+```
+
+1. Run the backend
+```sh
+npm run dev
+```
 
 ## Contributing
 Before contributing, please read the <a href="https://github.com/Finger-War/fingerwar/blob/main/CODE_OF_CONDUCT.md">Code Of Conduct</a>.
